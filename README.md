@@ -3,7 +3,7 @@
 
 ### Preview
 
-https://1obanov.github.io/to-do-app/
+Explore the live demo of the **To-Do App** [here](https://1obanov.github.io/to-do-app/).
 
 
 ### Installation
